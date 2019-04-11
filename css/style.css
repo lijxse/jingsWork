@@ -1,0 +1,74 @@
+body {
+  background: #f2f2f2;
+  margin: 0;
+  font: 16px/1.7 "Helvetica Neue", Helvetica, Arial, Sans-serif;
+}
+.cardbox {
+  background: white;
+  min-width: 100px;
+  margin: 24px 24px;
+  padding: 32px;
+  border-radius: 11px;
+  box-shadow: 0px 4px 8px rgba(121, 14, 14, 0.06);
+}
+.logo {
+  width:auto;
+  height: 40px;
+  text-align: center;
+  margin:0px;
+  padding:0px;
+}
+h1{
+  margin:0px;
+  padding:0px;
+}
+h1 img {
+  width:170px;
+  height: auto;
+}
+h2 {
+  color: rgba(39, 40, 51, 0.54);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: normal;
+  text-align: center;
+}
+.erweima{
+  text-align: center;
+  margin-top:50px;
+  margin-bottom:0px;
+}2
+.erweima p{
+  color: rgba(39, 40, 51, 0.54);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: normal;
+  text-align: center;
+  margin-top:0px;
+}
+.btnbox{
+  text-align: center;
+  margin-top:32px;
+}
+.btnbox button{
+  text-align: center;
+  margin-bottom:32px;
+  background: linear-gradient(152.13deg, #1E49CB 2.7%, #5C27B4 100%);
+  border-radius: 2px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: normal;
+  color: #FFFFFF;
+  width: 273px;
+  height: 56px;
+  left: 51px;
+  top: 499px;
+  border: 0;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+}
